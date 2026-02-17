@@ -1,0 +1,273 @@
+Hello and welcome.
+
+An exoplanet is a planet that exists outside of our Solar System. The discovery of the first exoplanet orbiting a normal star was announced in 1995 by Didier Queloz and Michel Mayor of the Haute Provence Observatory in France.
+
+30 years later, in Sep 2025, NASA announced that a total of 6000 exoplanets have been discovered, an average of 200 / day. But the pace of discovery has increased significantly over time, so that the announcement of a new exoplanet is on average a daily occurence.
+
+With so many planets discovered, the question arises do any of them have life? Thounsands of astronomers using the most powerful telescopes ever built are engaged in answering this quesion.
+
+My name is Brian Skidmore and the purpose of this talk to bring you up to date on where astronomers are on the journey to answer this most tantalising of questions.
+
+
+Slide 2:
+
+This is a plot of all the discovered exoplanets, where the distance of each planet from its host star is plotted on the x-axis, and its mass as a multiple of the Earth's mass on the y-axis. 
+
+The AU unit on the x-axis stands for Astronomical Unit and is the average distance from the Earth to the Sun. 
+
+Each planet is colour-coded according to its discovery technique as listed in the key shown in the lower right of the diagram.
+
+You can see that exoplanets exist in a very wide range of masses from less than Mercury to the max mass possible, about 13 x mass of Jupiter / 4000 x mass of the Earth - the very highest masses at the top of the diagram are probably brown dwarfs, a kind of failed star.
+
+Planets have been found that orbit extremely close to their host star, far closer than Mercury's distance from the Sun, with orbital periods of under a day in the most extreme cases. At the other end of the scale, there are exoplanets that orbit their host stars at distances that are far larger than Neptune and have orbital periods lasting centuries.
+
+One surprise was the existence of many Jupiter-like gas giants very close to their host star as seen in this cluster - these are known as 'hot-Jupiters'. 
+
+Another surprise, was that the most common type of planet found was of a diameter that is in between that of the Earth, a rocky planet, and Neptune, a gas giant with no solid surface. The question then arises as to whether these exoplanets are a larger version of the Earth, a rocky planet, or a smaller version of Neptune, a gas giant, or some other kind of planet. This has important implications for habitability as I'll discuss later in the presentation.
+
+Also plotted are the Solar System planets. As can be seen from the diagram no exoplanets have yet been discovered that are similar to the terretrial planets of Mercury, Venus, Earth and Mars in terms of both mass and distance from their host star. This isn't because these planet don't exist, instead it's because our observatories aren't yet sensitive enough, or haven't observed for long enough, to detect them.
+
+For this presentation, we're primarily interested in worlds that orbit at just the right distance from their host star for liquid water to exist on their surfaces, since water is fundamental all life on Earth.
+
+
+The Habitable Zone
+
+The Habitable Zone is an important concept. It is the range of distances from a star where liquid water could exist on a planet's surface. Since all life on Earth is based on liquid water, this is a natural criterion.
+
+The Habitable Zone is illustrated in this slide by the green ring around the star. At closer distances than the Habitable Zone to the star temperatures are too high and all water has evaporated. Conversely, at greater distances that the Habitable Zone, temperatures are too low and water is in the form of ice.
+
+However, simply being in the Habitable Zone isn't enough for a planet to have liquid water, a substantial enough atmosphere must be present too. The usual assumption is that the planet is rocky with an Earth-like atmosphere, but other atmospheric compositions may change its Habitable Zone position.
+
+The Habitable Zone is therefore planet specific. It acts as a useful tool for the initial targeting of planets in a given system, until further observations strengthen or weaken the case for the habitability of each one.
+
+
+Habitable Zone for different stars
+
+This diagram illustrates how the Habitable Zone's position, shown as the blue strip across the diagram, changes with stellar mass. The Sun and its planets are at the top of the diagram, with lower mass, and therefore cooler and redder stars, underneath.
+
+Since a planet needs to be nearer to a cooler star than a hotter star in order to reach a given temperature, the Habitable Zone moves inwards as stellar mass decreases. Hence the blue strip in the diagram stretches from upper right to lower left.
+
+This means that exoplanets in the Habitable Zone of cooler stars take less time to orbit their host star. This in turn means that astronomers have more frequent opportunities to measure the composition of their atmospheres to determine their habitability as I'll describe shortly.
+
+
+Biosignatures
+
+Let's consider how one might detect life on another world. Life, whether on Earth on another planet, leaves behind traces that can in principle be detected. These are called biosignatures and can be evidence of past or current life. Some examples of biosignatures are shown on this slide.
+
+On the left third of the slide are two examples of past life that is preserved in rock: fossils and stromatolites. Fossils are the preserved remains of multicellular plants and animals whose organic matter has been replaced by minerals; stromatolites are the products of colonies of ancient microbes that have created a layered structure in the rock in distinctive ways. However, we will not have access to the rocks of exoplanets for the forseeable future, if ever.
+
+Detecting changes over time in the concentration of biosignature gases associated with life are more likely to be detectable in the future, however, and this is illustrated by the wavy curve in the upper right panel. This example is the annual variation in CO2 concentration that occurs in the Earth's atmosphere due to the waxing and waning of vegetation that occurs on the Earth's continents. 
+
+This technique is likely beyond our current technology for habitable exoplanets, i.e. rocky worlds, but it may be possible with the next generation or exoplanet telescopes discussed later in this presentation.
+
+Technologically sophisticated civilisations may betray their existence by their radio transmissions, as we do on Earth, as shown in the lower right panel. A search for such signals is called SETI, the Search for Extraterrestrial Intelligence and has been underway since the 1960s, though so far without a confirmed detection.
+
+The centre panel contains the chemical formulae of some gases that are produced by life on Earth (though not exclusively so), and therefore of interest if detected in exoplanet atmospheres. From the top these are oxygen, methane, phosphine and dimethyl sulphide. The detection of these and other biosignature gases in the atmospheres of habitable exoplanets is the main focus of this presentation.
+
+
+
+Transit method
+
+Amazingly it is possible to determine the composition of an exoplanet atmosphere to see it contains biosignature gases, despite the vast distances involved and also the extreme contrast in brightness between a star and its planets. 
+
+Astronomers determine the atmospheric composition of an exoplanet when the planet crosses the face of the star from our point of view. This is called a transit. During a transit, a fraction of the star's light is blocked by the planet. 
+
+This animation, produced by NASA's Scientific Visualisation Studio, illustrates how the brightness of a star is affected by a transit. In this case the affect of the Jupiter, and then Earth, passing in front of the Sun is shown. Since Jupiter is larger than the Earth, it causes a deeper stop in brightness. 
+
+
+
+Transmission spectroscopy
+
+A spectrum is obtained when light passes through a prism, which both spreads the light out into its individual frequencies, and shows the amount of light received at each frequency. 
+
+If the light first passes though a gas before entering the prism, the spectrum obtained will vary in brightness at different frequencies. This is because the gas's atoms or molecules absorb the light at distinct frequencies and amounts.
+
+This variation in the absorption of light by frequency is specific to the particular gas the light has passed through. Therefore the spectrum allows the gas to be identified.
+
+This diagram shows the spectrum of the light from the star that has passed through an exoplanet's atmosphere. It therefore contains the absorption pattern from gases in both the star and the planet's atmospheres.
+
+For this reason astronomers also take the spectrum of the star outside of the transit and then subtract it from the spectrum of both the star and the planet and so obtain the absorption pattern from only the gases in the exoplanet's atmosphere.
+
+In this way astronomer's can determine the composition of an exoplanet's atmosphere. It is amazing that nature provides us with this ability to determine what something is made of from such vast distances.
+
+
+Oxygen: byproduct of photosynthesis
+
+Oxygen is no. 1 on the list of biosignature gases for astronomers to look for in an exoplanet's atmosphere. This because the vast majority of oxygen in the Earth's atmosphere (21% at sea level) is due to life, which produces the gas as a bi-product of photosynthesis.
+
+Photosynthesis is the mechanism that plants, algae and some bacteria use to extract energy from the reaction of sunlight with CO2 and water and to store it in glucose. The glucose is then used for various purposes, such as respiration, energy storage as starch, building materials for cells walls, the creation of proteins for growth or repair and so on.
+
+We don't know of course whether life elsewhere would evolve to use photosynthesis, but its raw materials of water, CO2 and sublight are expected to be plentiful in the Habitable Zone of other stars that it seems reasonable. 
+
+However, it is also possible for oxygen to be produced without the life. For example, water in the upper atmosphere can be broken down into hydrogen and oxygen with the hydrogen escaping to space and the oxygen left to accumulate. 
+
+So although the discovery of oxygen would be very exciting, more work would likely be required to provide a convincing case for life.
+
+
+Methane
+
+Methane is a biosignature on Earth because the majority of it is also produced by life, though in much lower concentrations than oxygen. In addition there is a greater diversity of non-biological mechanisms that produce methane as shown on this graph.
+
+It is the combination of oxygen and methane in Earth's atmosphere would provide a compelling case for an alien observer that Earth is inhabited. This is because oxygen and methane readily react together to produce water and CO2 and so for them to be both detectable means that both gases are being constantly produced in significant quantities. 
+
+Whilst both gases could be produced abiotically it is quite difficult to think of plausible scenarios where this is the case.
+
+
+Examples of other biosignature gases
+
+There are many biosignature gases that can be considered. In fact all gases in the Earth's atmosphere that are at the parts per billion or lower concentration level are produced by life. However, detection of gases at such low concentrations in exoplanet atmosphere is beyond current technology. Examples of these are listed in this slide.
+
+Nitrous oxide is produced by microbes involved in the nitrogen cycles, though the gas is also produced by lightening. It's concentration in Earth's atmosphere is 300 parts per billion. 
+
+Dimethlyl sulphide and dimethyl disulphide are produced by marine micro-organisms such as phytoplankton. It's concentration in Earth's atmosphere is very low at 100 parts per trillion. It's a similar story for methyl chloride.
+
+Phosphine is produced in anoxic environments, i.e. in the absence of oxygen, such as paddy fields and marshes and exists at the parts per trillion to billion levels in Earth's atmosphere. Interestingly in Sep 2020 the gas was claimed to have been detected in Venus's upper atmosphere where temperatures are similar to the surface temperature on Earth; however on further analysis by other groups was that the detection was in fact of sulpher dioxide and common gas the planet's atmosphere, and not phosphine.
+
+
+JWST
+
+Astronomers' ability to determine the composition of exoplanet atmospheres took a significant step forward with the launch of the James Webb Space Telescope (JWST), illustrated in this slide, in 2021
+
+The telescope primarily observes in the infrared part of the electromagnetic spectrum, that is to say the wavelengths of light that are beyond the red colour of visible light. It is in this region that many biosignature molecules absorb most strongly.
+
+The telescope has a 6.5 diameter mirror, by far the largest ever flown in space, which allows it to achieve exetremely high resolution images and spectra of its targets.
+
+
+WASP-39b
+
+JWST's ability to take exoplanet spectra is beautifully illustrated by the spectrum it took of the 'hot-Saturn' WASP-39b in 2022.
+
+The white points are the amount of absorption of the star's light due to gases in the planet's atmosphere at different wavelengths. The small vertical line through each point is the measurement uncertainty.
+
+The blue line is the 'best fit' of a model of the planet's atmosphere based upon the known properties of the planet and its star, i.e. size, mass and temperature, and the characteristics of its atmosphere.
+
+The measurements by themselves have such a small uncertainty that it is possible for an experienced researcher to simply read-off the molecules that must be present to produce them, in this case water, sodium, carbon monoxide, carbon dioxide, sulphur dioxide and water vapour. This is an extraordinary achievement.
+
+However, a hot atmosphere of a giant planet is far more substantial that the atmosphere surrounding a much cooler terrestrial planet like the Earth. 
+
+Therefore determining the tranmission spectrum of a terrestrial planet's atmosphere is much harder than for a hot Jupiter, requiring much longer observing time and therefore no. of transits, for the same instrument.
+
+
+Habitability around M-dwarf stars
+
+A significant challenge in obtaining an exoplanet atmosphere's tranmission spectrum is the vast difference in brightness between light received from host star and the planet itself. 
+
+For the Sun / Earth the ratio is ~1 billion to 1, whereas for an exoplanet orbiting an M-dwarf, the ratio is ~1 million to 1.
+
+Furthermore, as described earlier, M-dwarfs have Habitable Zones that lie much closer to their stars than do Sun-like stars, and so have transits much more frequently. This in turn means that the signal to noise ratio of the spectrum can be increased over a much shorter time period. 
+
+Both of these factors means that looking for biosignatures in the atmospheres exoplanets orbiting M-dwarf stars is substantially easier than for Sun-like stars. 
+
+Indeed it's not expected that JWST will be able to obtain a transit spectra for a rocky planet for a terrestrial planet in the Habitable Zone of a Sun-like star. 
+
+However M-dwarf stars have much more turbulent atmospheres that Sun-like stars, and this in turn means that their magnetic fields are more intense - leading to more powerful solar flares than those from the Sun. 
+
+These flares will blast the atmospheres of habitable zone planets with intense X-ray and ultraviolet radiation, possibly causing significant atmospheric erosion over time and reducing or eliminating their habitability. 
+
+
+TRAPPIST-1 system
+
+The TRAPPIST-1 syatem is one of most famous and extraordinary. TRAPPIST-1 is a nearby (40 light years) red dwarf star, around which are orbiting no less than 7 rocky planets (labelled b to h in order from TRAPPIST-1). 
+
+The system is shown in the upper half of this diagram. Also illustrated is the size of the system compared our own inner Solar System: all seven planets that orbit TRAPPIST-1 at a distance that is well within the orbit of Mercury. 
+
+This is a dramatic illustration of just how varied in size planetary systems are in the universe.
+
+All 7 planets are larger than Mars with 5 having a diameter within 15% of that of the Earth.
+
+They all have a density slightly lower than the Earth's suggesting that they may have a higher proportion of lower density material than does the Earth such as water, ices and atmospheric gases.
+
+Most importantly for our purposes is that the fact that 3 of the TRAPPIST-1 planets (e, f and g) are in the Habitable Zone, as shown in the green belt of the upper part of the diagram on this slide. 
+
+These planets are therefore of great interest in the search for biosignature gases in their atmospheres, if indeed they have one.
+
+ 
+ 
+TRAPPIST-1 b, c and d
+
+As of Dec 2025 observations have only been published on the inner 4 planets: b, c, d and e.
+
+This slide focuses on TRAPPIST-1 b, c and d. Although not in the HZ, it is useful to see what has been learned about their atmospheres.
+
+No thick atmosphere has been detected on b and c. 
+
+Observations suggest that b and c may be bare rock with no atmosphere. but that the presence of atmosphere on these worlds cannot be definitively ruled out.
+
+Possible explanations are that their temperature are too high and masses too small to hold on to an atmosphere and / or that their atmospheres have been eroded by flares from TRAPPIST-1.
+
+The TRAPPIST-1 d observations provide evidence for an atmosphere but don't provide strong evidence for its composition. 
+
+Instead, a thick hydrogen atmosphere has been ruled out, though this is no surprise since the planet is not massive enough to retain one. 
+
+There is weak evidence for d's atmosphere containing heavier gases than hydrogen, e.g. nitrogen with trace amounts of carbon dioxide and methane but other gases are possible. A bare rock scenario also fits the data, but don't explain all the features seen in the transmission spectrum obtained.
+
+
+TRAPPIST 1-f, g and h
+
+As previously mentioned, no observations have yet been published for f and g. h is outside the HZ.
+
+
+JWST rocky planet atmospheres: summary
+
+At the current time (Feb 2026), the only transmission spectra obtained of the atmosphere of an indisputably rocky world in the HZ of its host star is TRAPPIST-1 e.
+
+
+
+Super Earths and Mini-Neptunes
+
+The most common type of exoplanet has a radius that is in between that of Earth and Neptune. Such planets are referred to as super Earths or mini-Neptunes, depending on whether they are considered to be a larger version of the Earth (i.e. mainly rocky with an atmosphere) or a smaller version of Neptune (i.e. with a high density core and a substantial envelope of hydrogen).
+
+Often such planets have been measured to have an average density that is also between that of Earth and Neptune.
+
+In other words, there is a maximum diameter that the purely rocky component of a planet can be, and that any additional component is made of lower density material, such as ices, liquid water and / or atmospheric gases. 
+
+Typically planets whose radius is above 1.4 x Earth's radius fall into this category.
+
+
+LHS 1140 b
+
+LHS 1140 b is an example of such a world. Lying at a distance of 49 light years, it has a mass 5.60 (+/- 0.19) x Earth and radius 1.730 (+/- 0.025) x Earth and lies in the Habitable Zone of its host star. 
+
+The measure mass and radius equates to an aveerage density of 5.9 (+/-0.3) g/cm3 which although similar to Earth's avaerag density, it is less dense than Earth would be if Earth were the same size as LHS 1140 b due to gravitational compression. 
+
+Hence LHS 1140b requires an additional component of less-dense material such as a gas (e.g. H, He, N2), liquid water or ices (e.g H20, CH4, NH3) or a combination of them to be the size and mass that it is.
+
+
+LHS 1140 b Transmission spectrum
+
+This slide shows the tranmission spectrum of LHS 1140 b published by Cadieux and colleagues in 2024 using data from the NIRISS instrument on JWST, after contamination from the host star was removed.
+
+The black and grey dots are the observations shown at two different resolutions.
+
+The 3 dashed lines are each a simulation of the transmission spectrum, assuming that LHS 1140 b's atmosphere is chiefly comprised of He with some H. The ratio of He / H is 100, 300 and 1000 x that of the Sun's atmosphere for the orange, red and purple lines respectively. All 3 are definitively ruled out, indicating that LHS 1140 b is unlikely to be a small version of Neptune.
+
+The black and blue lines, which very nearly coincide, are simulations of the transmission spectrum assuming that the planet's atmosphere is Earth-like (i.e. 1 bar nitrogen with 300pm CO2) or 5 bar of pure CO2, respectively. Both of these are equally good fits to the data and a substantially better fit than a H / He atmosphere.
+
+An water world or airless planet has a flat spectrum, and so this is also a possibility and provides an equally good fit to the data as the blue and black lines.
+
+However, there are tentative signs of a nitrogen atmosphere, the gently sloping green dotted line provides a slightly better fit to the data than the black and blue lines. This could potentially be due to Rayleigh scattering, which is the scattering of light due to very small particles, in this case nitrogen.
+
+There is also a weak absorption feature at 2.2 microns which could be due to colliding nitrogen molecules.
+
+They also state that since its star has a relatively low-level of flaring activity combined with LHS 1140 b's relatively high mass, the planet has probably retained its atmosphere if heavier than hydrogen or helium
+
+The authors conclude that the planet is more likely to be a water world potentially overlaid with a nitrogen atmosphere than it is to be a smaller version of Neptune, i.e. one with a substantial H / He envelope.
+
+Because the planet is near the outer edge of its HZ it may be covered in ice rather than a global ocean, with models suggesting liquid water at the sub-stellar point.
+
+
+Hycean planets
+
+The super Earth / mini Neptune characterisation of exoplanets larger than the Earth, but smaller than Neptune, is possibly a false dichotomy in some cases. 
+
+For example, one other possibility is that such a planet is rocky and covered by global liquid water ocean above which is a hydrogen atmosphere.
+
+The type of planet was first proposed by Madhusdhan in 2019, which he dubbed 'Hycean' worlds, a portmanteau of Hydrogen and Ocean.
+
+
+
+
+
+
+
+
