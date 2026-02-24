@@ -258,16 +258,99 @@ Because the planet is near the outer edge of its HZ it may be covered in ice rat
 
 Hycean planets
 
-The super Earth / mini Neptune characterisation of exoplanets larger than the Earth, but smaller than Neptune, is possibly a false dichotomy in some cases. 
+In Aug 2021 a paper by Cambridge University exoplanet researcher Nikku Madhusdhan and colleagues proposed a new class of habitable exoplanet that has a global ocean, above which is a hydrogen-rich atmosphere.
 
-For example, one other possibility is that such a planet is rocky and covered by global liquid water ocean above which is a hydrogen atmosphere.
+They called this new planet type a 'Hycean' planet, a portmanteau of Hydrogen and Ocean.
 
-The type of planet was first proposed by Madhusdhan in 2019, which he dubbed 'Hycean' worlds, a portmanteau of Hydrogen and Ocean.
+Such planets, if they exist in the HZ of their parent star, were proposed by the authors to be more amenable to the detection of life, because they have deeper atmospheres than rocky planets with thinner atmospheres.
 
-
-
-
+This makes the detection of a gas of a given concentration easier in a Hycean planet, and the greater warming effect of a deep hydrogen atmosphere extends the Habitable Zone further. 
 
 
+K2-18b
 
+The archetypal Hycean exoplanet is K2-18b. 
+
+Discovered in 2015 by the Kepler K-2 mission, the planet lies in the Habitable Zone of its host star. It has diameter 2.6 x the Earth's diameter but a mass only 8.6 x the Earth's and so has an average density of only 40 - 56% that of the Earth.  
+
+The planet has become famous, some would say notorious, for the claim by Madhusdhan that it may contain the biosignature gases in its atmosphere.
+
+Because the story behind this claim has much to teach us about the search for life on distant worlds, both in terms of the physics and the nature of the debate, I'm going to discuss it in a little depth.
+
+
+K2-18b: Press release 17/04/2025
+
+K2-18b burst into the public consciousness in Apr 2025 when Cambridge University issued a press release claiming that Madhusdhan's research group had potentially detected the biosignature gas dimethyl sulphide in the atmosphere of the planet. 
+
+The press release began with the statement: 'Astronomers have detected the most promising signs yet of a possible biosignature outside the solar system, although they remain cautious.'
+
+It does on to say that 'astronomers, led by the University of Cambridge, *have* detected the chemical fingerprints of dimethyl sulfide (DMS) and/or dimethyl disulfide (DMDS), in the atmosphere of the exoplanet K2-18b'. They do on to say that the statistical significance of this result is 3 sigma - which is generally considered a "hint" of a potential discovery rather than a formal discovery which requires 5 sigma
+
+At the time the release also quoted Madhusdhan as saying that 'Given everything we know about this planet, a Hycean world with an ocean that is teeming with life is the scenario that best fits the data we have', although this quote has since been removed.
+
+In fairness it also states (or stated) that 'It is important that we're deeply sceptical of our results, because it's only by testing and testing again that we are able to reach the point that we're confident in them.'
+
+
+
+K2-18b: Claim of detection of H20 in 2019 using HST
+
+In 2019 no less than 4 papers were published that claimed the water vapour had been detected in K2-18b's atmosphere, based upon observations with the HST in the near infrared mainly between 1.1 - 1.7 microns.
+
+This spectrum of K2-18b was obtained by Benneke et al in 2019. The observations are shown by the black circles each a with vertical error bar. The red line is the best fit of their model of the atmosphere to the data, and the blue regions are the 1 and 2 sigma deviations from the model.
+
+This paper stated that ‘Quantitatively, retrieval models that include molecular absorption by water are favoured by the Bayes factor at 459:1 (3.93σ)’
+
+Whilst 3.93 sigma is not 5 sigma required fo a definite detection, it is still a striking claim with a probability of occuring by chance of 1 in 23,800.
+
+A paper by Tsiaras et al, claimed a detection of water vapour in the atmosphere of K2-18b of 3.6 sigma, and the third and fourth papers, by Welbanks in 2019, and Madhusudhan in 2020, claimed 3.3 sigma.
+ 
+
+
+JWST NIR spectrum of K2-18b, Madhusudhan 2023: Detection of methane not water + claim of DMS
+
+Later, in 2023, Madhusdhan et al published the paper 'Carbon-bearing Molecules in a Possible Hycean Atmosphere' using JWST observations from 1.0 to 5 microns where they show that the previous claim of water vapour is instead methane, to a level of 5 sigma (high probability of detection). They also detect carbon dioxide at a level of 3 sigma, which constitutes evidence but not a conclusive detection.
+
+This itself is interesting: that a simple molecule (methane) which is well understood spectroscopily, can be mistaken for another equally well understood molecule (water), until more data has been gathered. If we can confuse these molecules, how much more are at risk of making the same mistake for far less well characterised biosignature gases such as dimethyl sulphide, methyl chloride, etc.
+
+Also notable is that despite the fact that Madhusudhan considers K2-18b to be a potential water-world, water vapour wasn't detected in its transmission spectrum. This is resolved though if K2-18b's atmosphere has a 'cold trap' similar to Earth's, that causes water vapour to condense and fall as rain, rather than entering into the upper atmosphere where it's detected in the transmission spectrum.
+
+Other common molecules that were not detected in this study include ammonia, carbon monoxide or hydrogen cyanide, which the paper states is consistent with an ocean and a cold, thin H2 atmosphere.
+
+The paper also claims of at most a 2.4 sigma detection of a dimethly sulphide (depending on how the spectra from the various JWST detectors are combined together) which as mentioned earlier, is a biosignature gas on Earth. 
+
+
+JWST MIR spectrum of K2-18b, Madhusudhan 2025: Stronger claim of DMS and possible DMDS
+
+In a follow-up paper in 2025, Madhusudhan obtain a mid-infrared transmission spectrum of K2-18b using the JWST MIRI (Mid-InfraRed Instrument). They claim a higher detection of of DMS, and now also DMDS (dimethyl disulphide) at the level of 2.9-3.3 sigma depending on the model used, and other parameters related to how the data is processed. 
+
+An initial set of 20 molecules is fitted to the data and of these the presence of DMS & DMDS is required to produce a good fit to the data, without them the fit is poor.
+
+A subsequent fit to the data is then made with just DMS & DMDS as well as methane and CO2, (as these were previously detected in the atmosphere) and compared it with a model with just methane and CO2 and found that the preferred model is the one that included DMS / DMDS.
+
+However, this isn't surprising as only DMS and DMDS have features > 9 microns that the 
+
+
+
+They obtain this range of values by determining whether a model atmosphere of CO2, methane and DMS / DMDS or one of just CO2 and methane for a Hycean world scenario fits the data better. 
+
+But because the measured spectrum has features > 9 microns 
+
+
+K2-18b: Arguments against Hycean planet
+
+
+
+K2-18b: Detection of DMS / DMDS
+
+
+
+K2-18b: Summary
+
+We do not yet have sufficient evidence to distinguish between different internal models of K2-18b
+
+Hycean worlds are currently only an idea - no confirmed Hycean planets as yet
+
+The claim of the detection of DMS and DMDS is highly contentious
+
+Even if DMS / DMDS is present, it is not unambiguous evidence of life since these can be produced abiotically
 
