@@ -211,6 +211,7 @@ JWST rocky planet atmospheres: summary
 
 At the current time (Feb 2026), the only transmission spectra obtained of the atmosphere of an indisputably rocky world in the HZ of its host star is TRAPPIST-1 e.
 
+However, even the existence of an atmosphere around the planet is not secure.
 
 
 Super Earths and Mini-Neptunes
@@ -280,11 +281,11 @@ Because the story behind this claim has much to teach us about the search for li
 
 K2-18b: Press release 17/04/2025
 
-K2-18b burst into the public consciousness in Apr 2025 when Cambridge University issued a press release claiming that Madhusdhan's research group had potentially detected the biosignature gas dimethyl sulphide in the atmosphere of the planet. 
+K2-18b burst into the public consciousness in Apr 2025 when Cambridge University issued a press release stating that Madhusdhan's research group had potentially detected the biosignature gas dimethyl sulphide in the atmosphere of the planet. 
 
 The press release began with the statement: 'Astronomers have detected the most promising signs yet of a possible biosignature outside the solar system, although they remain cautious.'
 
-It does on to say that 'astronomers, led by the University of Cambridge, *have* detected the chemical fingerprints of dimethyl sulfide (DMS) and/or dimethyl disulfide (DMDS), in the atmosphere of the exoplanet K2-18b'. They do on to say that the statistical significance of this result is 3 sigma - which is generally considered a "hint" of a potential discovery rather than a formal discovery which requires 5 sigma
+It does on to say that 'astronomers, led by the University of Cambridge, *have* detected the chemical fingerprints of dimethyl sulfide (DMS) and/or dimethyl disulfide (DMDS), in the atmosphere of the exoplanet K2-18b'. They do on to say that the statistical significance of this result is 3 sigma. 3 sigma is generally considered a "hint" of a potential discovery rather than a formal discovery which requires 5 sigma
 
 At the time the release also quoted Madhusdhan as saying that 'Given everything we know about this planet, a Hycean world with an ocean that is teeming with life is the scenario that best fits the data we have', although this quote has since been removed.
 
@@ -302,7 +303,7 @@ This paper stated that ‘Quantitatively, retrieval models that include molecula
 
 Whilst 3.93 sigma is not 5 sigma required fo a definite detection, it is still a striking claim with a probability of occuring by chance of 1 in 23,800.
 
-A paper by Tsiaras et al, claimed a detection of water vapour in the atmosphere of K2-18b of 3.6 sigma, and the third and fourth papers, by Welbanks in 2019, and Madhusudhan in 2020, claimed 3.3 sigma.
+A paper by Tsiaras et al, claimed a detection of water vapour of 3.6 sigma, and the third and fourth papers, by Welbanks in 2019, and Madhusudhan in 2020, claimed 3.3 sigma.
  
 
 
@@ -312,7 +313,7 @@ Later, in 2023, Madhusdhan et al published the paper 'Carbon-bearing Molecules i
 
 This itself is interesting: that a simple molecule (methane) which is well understood spectroscopily, can be mistaken for another equally well understood molecule (water), until more data has been gathered. If we can confuse these molecules, how much more are at risk of making the same mistake for far less well characterised biosignature gases such as dimethyl sulphide, methyl chloride, etc.
 
-Also notable is that despite the fact that Madhusudhan considers K2-18b to be a potential water-world, water vapour wasn't detected in its transmission spectrum. This is resolved though if K2-18b's atmosphere has a 'cold trap' similar to Earth's, that causes water vapour to condense and fall as rain, rather than entering into the upper atmosphere where it's detected in the transmission spectrum.
+Also notable is that water vapour wasn't detected in its transmission spectrum even though K2-18b is considered to be a potential water world. This is resolved though if K2-18b's atmosphere has a 'cold trap' similar to Earth's, that causes water vapour to condense and fall as rain, rather than entering into the upper atmosphere where it's detected in the transmission spectrum.
 
 Other common molecules that were not detected in this study include ammonia, carbon monoxide or hydrogen cyanide, which the paper states is consistent with an ocean and a cold, thin H2 atmosphere.
 
@@ -321,36 +322,63 @@ The paper also claims of at most a 2.4 sigma detection of a dimethly sulphide (d
 
 JWST MIR spectrum of K2-18b, Madhusudhan 2025: Stronger claim of DMS and possible DMDS
 
-In a follow-up paper in 2025, Madhusudhan obtain a mid-infrared transmission spectrum of K2-18b using the JWST MIRI (Mid-InfraRed Instrument). They claim a higher detection of of DMS, and now also DMDS (dimethyl disulphide) at the level of 2.9-3.3 sigma depending on the model used, and other parameters related to how the data is processed. 
+In a follow-up paper in 2025, Madhusudhan obtained a mid-infrared transmission spectrum of K2-18b using the JWST MIRI (Mid-InfraRed Instrument). They claim a higher detection of DMS, and now also DMDS (dimethyl disulphide) at the level of 2.9-3.3 sigma depending on the model used, and other parameters related to how the data is processed. 
 
-An initial set of 20 molecules is fitted to the data and of these the presence of DMS & DMDS is required to produce a good fit to the data, without them the fit is poor.
+The method they used to make this claim consisted of two steps:
 
-A subsequent fit to the data is then made with just DMS & DMDS as well as methane and CO2, (as these were previously detected in the atmosphere) and compared it with a model with just methane and CO2 and found that the preferred model is the one that included DMS / DMDS.
+In step 1, a set of 20 molecules were fitted to the observations, which included the biosignature gases DMS, DMDS, methl chloride, nitrous oxide and also gases expected in the atmosphere of Hycean worlds. They found that in order to obtain a good fit to the data they requried DMS & DMDS molecules, and that without them the fit is poor.
 
-However, this isn't surprising as only DMS and DMDS have features > 9 microns that the 
-
-
-
-They obtain this range of values by determining whether a model atmosphere of CO2, methane and DMS / DMDS or one of just CO2 and methane for a Hycean world scenario fits the data better. 
-
-But because the measured spectrum has features > 9 microns 
+In step 2, they chose just 4 molecules from the list in step 1: CH4, CO2, DMDS and DMS
+Using this restricted list they fitted the observations both to all 4 gases and also to CH4 + CO2 only (i.e. without DMS and DMDS) and found that the first list, i.e. with DMS and DMDS, fitted the data better. They stated that this was equivalent to a 2.9 - 3.4 sigma detection of DMS / DMDS.
 
 
-K2-18b: Arguments against Hycean planet
+However, there are several problems with this paper:
+
+
+1. Their procedure doesn't follow standard practise, which is to use the full list of gases, rather than the restricted list. Using the restricted list inflates the statistics. Had they used the full list they would've found that the sigma value was ~1 sigma which is essentially no detection
+
+2. By using just 4 out of the original 20 molecules they eliminated all the molecules in the original list that absorbed > 9 microns, except DMS and DMDS. So they were bound to find that including DMS and DMDS led to a better fit to the data than just using CH4 and CO2.
+
+3. It strongly favours the Hycean world scenario, rather than the mini-Neptune one, because, the authors state, the latter is incompatible with the absence of ammonia and high CO2/CO ratio detected in their spectrum of K2-18b. 
+But Neptune itself is depleted of ammonia in its upper atmosphere and in any case we don't yet know what the range of ammonia abundance of CO2/CO ratios that mini-Neptune planets have.
+Nor can we have confidence that we know what the ratio of CO2/CO K2-18b has. As we'll see there is at least one researcher who doesn't retrieve CO2 from the same spectrum.
+
+4. There are non-biological sources of DMS which has been found in space. For example it's been found on the comet 67P/Churyumov-Gerasimenko and also in the interstellar medium.
+
+5. If is was detected by the study then its concentration would be 1000s of times greater than it is on Earth
 
 
 
-K2-18b: Detection of DMS / DMDS
+K2-18b: Arguments against K2-18b being a Hycean planet
+
+Multiple arguments have been published in the literature against K2-18b being a Hycean world covered in a deep ocean of water.
+
+Other authors have processed the same data with different processing algorithms and found that either a gas-rich mini-Neptune or a molten magma ocean covered by a hydrogen atmosphere fit the data just as well as the Madhusudhan / DMDS model.
+
+
+Other researchers have look at the data collected by Madhusudhan and drawn different conclusions. 
+
+For example:
+
+- Wogan (2024) found the observations consistent with a gas-rich mini-Neptune
+
+- Shorttle (2024) found that a H2 atmosphere with a magma ocean gave just as good a fit to the data as does the Hycean planet model
+
+- Jordan (2025) found that K2-18b's spectrum that its atmosphere reflects too little of the light from its host star, making the planet too hot for liquid water
 
 
 
 K2-18b: Summary
 
+The claim of the detection of DMS and DMDS is highly contentious. No other research group has reached the same conclusion
+
 We do not yet have sufficient evidence to distinguish between different internal models of K2-18b
 
 Hycean worlds are currently only an idea - no confirmed Hycean planets as yet
 
-The claim of the detection of DMS and DMDS is highly contentious
-
 Even if DMS / DMDS is present, it is not unambiguous evidence of life since these can be produced abiotically
+
+
+Conclusion
+
 
