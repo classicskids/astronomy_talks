@@ -211,7 +211,7 @@ JWST rocky planet atmospheres: summary
 
 At the current time (Feb 2026), the only transmission spectra obtained of the atmosphere of an indisputably rocky world in the HZ of its host star is TRAPPIST-1 e.
 
-However, even the existence of an atmosphere around the planet is not secure.
+However, even the existence of an atmosphere around the planet is not secure. Only particular scenarios, such as a thick H2 or CO2 atmosphere, can be ruled out.
 
 
 Super Earths and Mini-Neptunes
@@ -242,9 +242,9 @@ The black and grey dots are the observations shown at two different resolutions.
 
 The 3 dashed lines are each a simulation of the transmission spectrum, assuming that LHS 1140 b's atmosphere is chiefly comprised of He with some H. The ratio of He / H is 100, 300 and 1000 x that of the Sun's atmosphere for the orange, red and purple lines respectively. All 3 are definitively ruled out, indicating that LHS 1140 b is unlikely to be a small version of Neptune.
 
-The black and blue lines, which very nearly coincide, are simulations of the transmission spectrum assuming that the planet's atmosphere is Earth-like (i.e. 1 bar nitrogen with 300pm CO2) or 5 bar of pure CO2, respectively. Both of these are equally good fits to the data and a substantially better fit than a H / He atmosphere.
+The black and blue lines, which very nearly coincide, are simulations of the transmission spectrum assuming that the planet's atmosphere is either Earth-like (i.e. 1 bar nitrogen with 300pm CO2) or 5 bar of pure CO2, respectively. Both of these are equally good fits to the data and a substantially better fit than a H / He atmosphere.
 
-An water world or airless planet has a flat spectrum, and so this is also a possibility and provides an equally good fit to the data as the blue and black lines.
+A water world or airless planet has a flat spectrum, and so this is also a possibility and provides an equally good fit to the data as the blue and black lines.
 
 However, there are tentative signs of a nitrogen atmosphere, the gently sloping green dotted line provides a slightly better fit to the data than the black and blue lines. This could potentially be due to Rayleigh scattering, which is the scattering of light due to very small particles, in this case nitrogen.
 
@@ -380,5 +380,27 @@ Even if DMS / DMDS is present, it is not unambiguous evidence of life since thes
 
 
 Conclusion
+
+The atmospheric composition of the first exoplanet, the hot-Jupiter HD 209458b, was announced by David Charbonneau in 2001. 
+
+We have come a long way since then to the point where some gases have been identified in the atmosphere of a few mini-Naptunes and also hot rocky planets close-in to their host star.
+
+Currently, however, no temperate rocky planet in the Habitable Zone of its parent star has even been definitely detected, never mind having gases in atmosphere determined at the level of 5 sigma. 
+
+Even for those few mini-Neptunes that are known to be in the Habitable Zone of their host star, only CH4 in the atmosphere of K2-18b has currently been detected at the level of 5 sigma (by Madhusdhan 2023).
+
+A paper by Seager et al titled: 'Prospects for Detecting Signs of Life on Exoplanets in the JWST Era' in 2025 states that although the detection of a biosignature gas by JWST is potentially within reach, we may have to live with multiple interpretations of what a habitable rocky or mini-Neptune planet is really like until the next generation of telescopes. We see this already with the studies of LHS 12140b and K2-18b for example, as explained earlier.
+
+ 
+
+
+
+
+
+the atmospheric composition of some mini-Neptunes and a few hot rocky planets are beginning to be characterised
+
+It is extraordinary that we can determine the atmospheric composition of
+
+We've covered a lot of ground in this presentation.-
 
 
