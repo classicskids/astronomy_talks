@@ -1,0 +1,26 @@
+
+From: The future of spectroscopic life detection on exoplanets
+https://www.pnas.org/doi/10.1073/pnas.1304213111:
+
+The exoplanet discovery and atmospheric characterization techniques of TESS–JWST are powerful but very limited to the rare set of exoplanets that are fortuitously aligned to transit their host stars.
+
+To increase the chances of finding an exoplanet with habitable conditions and signs of life we need to directly image an exoplanet from around as many nearby stars as possible.
+
+JWST's noise floor is too high to obtain the transmission spectrum of an Earth-like planet orbiting a Sunlight star where the contrast between star and planet is 10 billion to 1. 
+
+An external occulter is required to only allow the planet's light into the telescope. Two options:
+
+- An internal coronograph
+	- Pros: Only one telescope launched, no formation flying
+	- Cons: have to separate out later the mixed up 1 part in 10 billion planet light from the starlight and as that light bounces off imperfections in the telescope it becomes really hard to separate out the planet light, so planet has to be perfect
+	
+- A starshade tens of metres in diameter and separated from the telescope by tens of thousands of kms, required due to the diffraction of the star's light.
+
+
+
+A Cassegrain reflector telescope consisting of two mirrors, followed by a third mirror to focus the light. The elliptical primary mirror will measure 1.1 by 0.7 metres.
+
+An infrared spectrometer called AIRS (Ariel medium-resolution InfraRed Spectrometer).
+
+A Fine Guidance System (FGS) module containing three visible to near-infrared photometer channels (two used as guidance sensors as well as for science) and a low-resolution near-infrared spectrometer.
+
